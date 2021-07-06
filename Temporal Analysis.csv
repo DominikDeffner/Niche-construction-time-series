@@ -1,0 +1,1046 @@
+Authors,Pub.Year,Journal,Species,Taxon.group,Year/Year.Span,Population,Study.ID,Subset,NC,CombNC,NC.type,Trait.Name,Trait.Class,Fitness.Measure.Defined,Fit.Comp,Grad.linear.value,Grad.linear.StErr,Same.Study,Birds,Physical.Artifact,Other.Org.NC,Multiple.Species,Borderline.ambiguous.case
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1992,"Sierra de la Pandera, province of Ja_n, southern Spain",1,1,N,N,NA,crop size: number of full-sized fruits produced,OtherMO,number of seeds dispersed,F,0.686,0.032097118,0,0,NA,NA,NA,0
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1993,"Sierra de la Pandera, province of Ja_n, southern Spain",1,1,N,N,NA,crop size: number of full-sized fruits produced,OtherMO,number of seeds dispersed,F,1.162,0.025456335,0,0,NA,NA,NA,0
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1992,"Sierra de la Pandera, province of Ja_n, southern Spain",1,2,N,N,NA,fruit width,OtherMO,number of seeds dispersed,F,0.27,0.035891851,0,0,NA,NA,NA,0
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1993,"Sierra de la Pandera, province of Ja_n, southern Spain",1,2,N,N,NA,fruit width,OtherMO,number of seeds dispersed,F,0.714,0.033520143,0,0,NA,NA,NA,0
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1992,"Sierra de la Pandera, province of Ja_n, southern Spain",1,3,N,N,NA,pulp/seed ratio: pulp dry weight divided by seed dry weight,OtherMO,number of seeds dispersed,F,0.187,0.033520143,0,0,NA,NA,NA,0
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1993,"Sierra de la Pandera, province of Ja_n, southern Spain",1,3,N,N,NA,pulp/seed ratio: pulp dry weight divided by seed dry weight,OtherMO,number of seeds dispersed,F,-0.148,0.027511816,0,0,NA,NA,NA,0
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1992,"Sierra de la Pandera, province of Ja_n, southern Spain",1,4,N,N,NA,ripening phenology (larger values indicate later starting of ripening season,Phen,number of seeds dispersed,F,0.436,0.032097118,0,0,NA,NA,NA,0
+Alcantara et al,1997,Oikos,Olea europaea var. sylvestris,P,1993,"Sierra de la Pandera, province of Ja_n, southern Spain",1,4,N,N,NA,ripening phenology (larger values indicate later starting of ripening season,Phen,number of seeds dispersed,F,-0.068,0.02972541,0,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2004,Cabana plot,2,5,N,N,NA,flower number,OtherLH,female/fruits,F,0.722,0.0157,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2005,Cabana plot,2,5,N,N,NA,flower number,OtherLH,female/fruits,F,0.734,0.0188,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2006,Cabana plot,2,5,N,N,NA,flower number,OtherLH,female/fruits,F,0.8348,0.0839,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2007,Cabana plot,2,5,N,N,NA,flower number,OtherLH,female/fruits,F,0.6888,0.0149,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2004,Cabana plot,2,6,N,N,NA,flower number,OtherLH,male/number of exported pollinaria,F,0.6177,0.0063,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2005,Cabana plot,2,6,N,N,NA,flower number,OtherLH,male/number of exported pollinaria,F,0.7722,0.1067,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2006,Cabana plot,2,6,N,N,NA,flower number,OtherLH,male/number of exported pollinaria,F,0.7383,0.0962,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2007,Cabana plot,2,6,N,N,NA,flower number,OtherLH,male/number of exported pollinaria,F,0.7427,0.0897,1,0,NA,NA,NA,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2004,Cabana plot,2,7,Y,Y,C,nectary depth,OtherMO,female/fruits,F,0.0178,0.0463,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2005,Cabana plot,2,7,Y,Y,C,nectary depth,OtherMO,female/fruits,F,0.0697,0.0994,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2006,Cabana plot,2,7,Y,Y,C,nectary depth,OtherMO,female/fruits,F,0.0247,0.0596,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2007,Cabana plot,2,7,Y,Y,C,nectary depth,OtherMO,female/fruits,F,0.0162,0.0113,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2004,Cabana plot,2,8,Y,Y,C,nectary depth,OtherMO,male/number of exported pollinaria,F,0.2201,0.0463,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2005,Cabana plot,2,8,Y,Y,C,nectary depth,OtherMO,male/number of exported pollinaria,F,0.051,0.057,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2006,Cabana plot,2,8,Y,Y,C,nectary depth,OtherMO,male/number of exported pollinaria,F,0.134,0.1511,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2007,Cabana plot,2,8,Y,Y,C,nectary depth,OtherMO,male/number of exported pollinaria,F,0.1478,0.0646,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2004,Cabana plot,2,9,M,Y,C,osmophore area,OtherMO,female/fruits,F,-0.0068,0.0113,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2005,Cabana plot,2,9,M,Y,C,osmophore area,OtherMO,female/fruits,F,-0.0117,0.0153,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2006,Cabana plot,2,9,M,Y,C,osmophore area,OtherMO,female/fruits,F,-0.1186,0.0726,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2007,Cabana plot,2,9,M,Y,C,osmophore area,OtherMO,female/fruits,F,-0.0019,0.0107,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2004,Cabana plot,2,10,M,Y,C,osmophore area,OtherMO,male/number of exported pollinaria,F,-0.032,0.0352,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2005,Cabana plot,2,10,M,Y,C,osmophore area,OtherMO,male/number of exported pollinaria,F,-0.0123,0.0687,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2006,Cabana plot,2,10,M,Y,C,osmophore area,OtherMO,male/number of exported pollinaria,F,-0.3359,0.1374,1,0,0,1,1,0
+Benitez-Vieyra et al,2012,Evolutionary Ecology,Cyclopogon elatus,P,2007,Cabana plot,2,10,M,Y,C,osmophore area,OtherMO,male/number of exported pollinaria,F,-0.1642,0.0584,1,0,0,1,1,0
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1994,Beaver marsh,3,11,N,N,NA,body size,Size,number of mating aggregations,M,0.341,0.246,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1995,Beaver marsh,3,11,N,N,NA,body size,Size,number of mating aggregations,M,-0.017,0.186,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1996,Beaver marsh,3,11,N,N,NA,body size,Size,number of mating aggregations,M,0.3,0.2368,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1994,Beaver marsh,3,12,N,N,NA,body size,Size,number of mating partners,M,0.341,0.246,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1995,Beaver marsh,3,12,N,N,NA,body size,Size,number of mating partners,M,0.109,0.148,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1996,Beaver marsh,3,12,N,N,NA,body size,Size,number of mating partners,M,0.23,0.2294,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1993,Barb's marsh,3,13,N,N,NA,body size,Size,number of partners,M,0.801,0.2323,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1994,Barb's marsh,3,13,N,N,NA,body size,Size,number of partners,M,0.239,0.2567,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1995,Barb's marsh,3,13,N,N,NA,body size,Size,number of partners,M,1.151,0.3265,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1996,Barb's marsh,3,13,N,N,NA,body size,Size,number of partners,M,0.292,0.299,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1994,Beaver marsh,3,14,N,N,NA,fat content,OtherMO,number of mating aggregations,M,0.249,0.2411,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1995,Beaver marsh,3,14,N,N,NA,fat content,OtherMO,number of mating aggregations,M,-0.063,0.1875,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1996,Beaver marsh,3,14,N,N,NA,fat content,OtherMO,number of mating aggregations,M,0.053,0.2163,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1994,Beaver marsh,3,15,N,N,NA,fat content,OtherMO,number of mating partners,M,0.249,0.241,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1995,Beaver marsh,3,15,N,N,NA,fat content,OtherMO,number of mating partners,M,0.048,0.1492,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1996,Beaver marsh,3,15,N,N,NA,fat content,OtherMO,number of mating partners,M,0.032,0.2095,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1993,Barb's marsh,3,16,N,N,NA,fat content,OtherMO,number of partners,M,0.342,0.2037,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1994,Barb's marsh,3,16,N,N,NA,fat content,OtherMO,number of partners,M,0.133,0.2386,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1995,Barb's marsh,3,16,N,N,NA,fat content,OtherMO,number of partners,M,0.312,0.3228,0,0,NA,NA,NA,1
+Brown and Weatherhead,1999,Behavioral Ecology and Sociobiology ,Nerodia sipedon,V,1996,Barb's marsh,3,16,N,N,NA,fat content,OtherMO,number of partners,M,0.115,0.2688,0,0,NA,NA,NA,1
+Caruso et al.,2003,American Journal of Botany,Lobelia cardinalis,P,1999,CB,5,17,M,Y,C,corolla lobe length,OtherMO,number of fruits per plant,F,0.009,0.025,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia cardinalis,P,2000,CB,5,17,M,Y,C,corolla lobe length,OtherMO,number of fruits per plant,F,0.154,0.046,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia cardinalis,P,1999,CB,5,18,M,Y,C,corolla tube length,OtherMO,number of fruits per plant,F,0.011,0.025,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia cardinalis,P,2000,CB,5,18,M,Y,C,corolla tube length,OtherMO,number of fruits per plant,F,0.099,0.05,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,CERA,5,19,M,Y,C,corolla lobe length,OtherMO,number of fruits per plant,F,-0.002,0.035,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,CERA,5,19,M,Y,C,corolla lobe length,OtherMO,number of fruits per plant,F,-0.05,0.023,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,CERA,5,20,M,Y,C,corolla lobe width,OtherMO,number of fruits per plant,F,-0.008,0.035,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,CERA,5,20,M,Y,C,corolla lobe width,OtherMO,number of fruits per plant,F,-0.019,0.023,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,CERA,5,21,M,Y,C,corolla tube length,OtherMO,number of fruits per plant,F,0.003,0.035,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,CERA,5,21,M,Y,C,corolla tube length,OtherMO,number of fruits per plant,F,-0.011,0.024,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,CERA,5,22,M,Y,C,stigma-nectary distance,OtherMO,number of fruits per plant,F,-0.02,0.035,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,CERA,5,22,M,Y,C,stigma-nectary distance,OtherMO,number of fruits per plant,F,0.029,0.023,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,Krumm,5,23,M,Y,C,corolla lobe length,OtherMO,number of fruits per plant,F,0.084,0.031,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,Krumm,5,23,M,Y,C,corolla lobe length,OtherMO,number of fruits per plant,F,0.102,0.052,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,Krumm,5,24,M,Y,C,corolla lobe width,OtherMO,number of fruits per plant,F,0.075,0.031,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,Krumm,5,24,M,Y,C,corolla lobe width,OtherMO,number of fruits per plant,F,0.068,0.053,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,Krumm,5,25,M,Y,C,corolla tube length,OtherMO,number of fruits per plant,F,0.055,0.032,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,Krumm,5,25,M,Y,C,corolla tube length,OtherMO,number of fruits per plant,F,0.136,0.048,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,1999,Krumm,5,26,M,Y,C,stigma-nectary distance,OtherMO,number of fruits per plant,F,0.067,0.032,0,0,0,1,1,1
+Caruso et al.,2003,American Journal of Botany,Lobelia siphilitica,P,2000,Krumm,5,26,M,Y,C,stigma-nectary distance,OtherMO,number of fruits per plant,F,0.105,0.05,0,0,0,1,1,1
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1994,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.04376235,0.22937654,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1995,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.226011228,0.25188037,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1996,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.037727526,0.19937037,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1997,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.056992962,0.10848723,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1998,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.040849391,0.33268822,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1999,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.704837692,0.51898546,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2000,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.117628875,0.32669232,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2001,Muro,6,27,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.114321351,0.17369939,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1994,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.089037598,0.22842674,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1995,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.199318326,0.28016233,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1996,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.170191358,0.20053371,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1997,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.030305075,0.16470774,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1998,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.125487929,0.33358189,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1999,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.491052927,0.54524677,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2000,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.085026117,0.32691836,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2001,Muro,6,28,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.074139966,0.16146162,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1990,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-1.426510584,0.60238109,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1991,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,1.79032751,2.11151405,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1992,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.364413926,0.31023554,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1993,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.117496208,0.43465373,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1994,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.400724267,0.36490733,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1995,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.538158964,0.28617616,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1996,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.261218811,0.3534121,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1997,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.931262018,1.21303204,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1998,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.268817694,0.41649519,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1999,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.234928705,0.50760675,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2000,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.530603121,0.32265597,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2001,Pirio,6,29,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.054535617,0.7900313,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1990,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.406236406,0.65875748,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1991,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,3.796211811,4.93019727,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1992,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.472905376,0.35811593,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1993,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.059088467,0.55765381,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1994,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.348872989,0.36895598,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1995,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.005919388,0.28463277,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1996,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.461509356,0.35287791,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1997,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.496708399,1.21816711,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1998,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.236961024,0.41566047,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1999,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.007643051,0.5174041,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2000,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.157813437,0.33280232,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2001,Pirio,6,30,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,1.199582406,0.85969727,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1991,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.547515493,0.3945694,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1992,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.203348995,0.40484303,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1993,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.139206092,0.29398202,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1994,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.332686522,0.39567515,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1995,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.215026664,0.23219362,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1996,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.052506671,0.16025482,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1997,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.062463034,0.17362483,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1998,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.085820888,0.20407324,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1999,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,0.211055876,0.20573762,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2000,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.030436711,0.19647677,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2001,Rouviere,6,31,M,Y,C,chick tarsus length,OtherMO,survival (recruitment to the breeding population),S,-0.064015778,0.34653102,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1991,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.065809118,0.43330832,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1992,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.471961438,0.44449167,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1993,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.456244413,0.30693615,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1994,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.883344416,0.41274833,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1995,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.192143385,0.24575099,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1996,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.411466875,0.15625373,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1997,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.439252574,0.17607498,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1998,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.407573682,0.21049808,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,1999,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,-0.022490144,0.23084246,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2000,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.443829345,0.20349114,0,1,1,0,0,0
+Charmantier et al.,2004,Journal of Evolutionary Biology,Parus caeruleus,V,2001,Rouviere,6,32,M,Y,C,chick weight,Size,survival (recruitment to the breeding population),S,0.574041341,0.33576417,0,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1979,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.027,0.053,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1980,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.024,0.092,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1981,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.244,0.141,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1982,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.014,0.117,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1983,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.01,0.139,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1985,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.041,0.069,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1986,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.029,0.092,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1987,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.01,0.06,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1988,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.013,0.096,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1989,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.029,0.047,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1990,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.054,0.031,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1991,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.018,0.054,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1992,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.025,0.045,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1993,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.049,0.047,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1994,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.01,0.054,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1995,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.067,0.059,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1996,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.09,0.053,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1997,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.009,0.022,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1998,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.025,0.037,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1999,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.076,0.05,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2000,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,-0.009,0.047,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2001,"Abbotsbury, Dorset, south coast of England",7,33,M,Y,C,clutch size,OtherLH,female survival,S,0.005,0.059,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1979,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.363,0.031,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1980,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.435,0.129,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1981,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.172,0.052,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1982,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.231,0.07,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1983,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.113,0.117,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1984,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.338,0.091,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1985,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.384,0.131,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1986,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.365,0.054,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1987,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.203,0.065,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1988,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.31,0.064,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1989,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.287,0.037,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1990,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.222,0.045,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1991,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.297,0.037,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1992,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.276,0.053,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1993,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.385,0.051,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1994,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.446,0.06,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1995,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.391,0.093,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1996,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.276,0.041,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1997,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.291,0.046,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1998,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.244,0.053,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1999,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.362,0.058,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2000,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.217,0.063,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2001,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.248,0.039,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2002,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.179,0.045,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2003,"Abbotsbury, Dorset, south coast of England",7,34,M,Y,C,clutch size,OtherLH,number of hatchlings,F,0.278,0.037,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1979,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.584,0.282,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1980,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.867,0.324,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1981,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.478,0.427,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1982,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.623,0.354,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1983,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.531,0.315,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1984,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.811,0.242,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1985,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.262,0.236,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1986,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,1.203,0.398,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1987,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.372,0.216,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1988,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.358,0.248,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1989,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.709,0.297,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1990,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.226,0.22,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1991,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.291,0.216,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1992,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.199,0.222,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1993,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.502,0.258,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1994,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.75,0.315,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1995,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.078,0.413,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1996,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.237,0.174,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1997,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.581,0.192,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1998,"Abbotsbury, Dorset, south coast of England",7,35,M,Y,C,clutch size,OtherLH,number of recruits,F,0.512,0.211,1,1,1,0,0,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1979,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.071,0.053,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1980,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.298,0.092,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1981,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.431,0.141,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1982,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.177,0.117,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1983,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.139,0.139,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1985,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,0.033,0.069,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1986,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.137,0.092,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1987,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.081,0.06,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1988,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.152,0.096,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1989,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.016,0.047,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1990,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.099,0.031,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1991,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.129,0.054,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1992,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.063,0.045,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1993,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.078,0.047,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1994,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.06,0.054,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1995,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.009,0.059,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1996,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,0.01,0.053,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1997,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.037,0.022,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1998,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,0.026,0.037,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1999,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.012,0.05,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2000,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.162,0.047,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2001,"Abbotsbury, Dorset, south coast of England",7,36,N,N,NA,laying date,Phen,female survival,S,-0.082,0.059,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1979,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,0.007,0.031,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1980,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.306,0.129,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1981,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.015,0.052,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1982,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.134,0.07,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1983,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.24,0.117,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1984,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,0.014,0.091,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1985,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.132,0.131,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1986,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,0.037,0.054,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1987,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.111,0.065,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1988,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,0.004,0.064,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1989,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.003,0.037,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1990,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.04,0.045,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1991,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.067,0.037,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1992,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.047,0.053,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1993,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.069,0.051,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1994,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.016,0.06,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1995,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.219,0.093,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1996,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,0.023,0.041,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1997,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.096,0.046,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1998,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.182,0.053,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1999,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.023,0.058,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2000,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.141,0.063,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2001,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.099,0.039,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2002,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,-0.078,0.045,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,2003,"Abbotsbury, Dorset, south coast of England",7,37,N,N,NA,laying date,Phen,number of hatchlings,F,0.003,0.037,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1979,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,0.198,0.282,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1980,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.474,0.324,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1981,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.544,0.427,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1982,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.372,0.354,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1983,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.385,0.315,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1984,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,0.169,0.242,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1985,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.404,0.236,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1986,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.051,0.398,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1987,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.51,0.216,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1988,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.154,0.248,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1989,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,0.238,0.297,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1990,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.276,0.22,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1991,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.419,0.216,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1992,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.37,0.222,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1993,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.644,0.258,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1994,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.359,0.315,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1995,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.861,0.413,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1996,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.291,0.174,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1997,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,0.007,0.192,1,1,NA,NA,NA,0
+Charmantier et al.,2006,American Naturalist,Cygnus olor,V,1998,"Abbotsbury, Dorset, south coast of England",7,38,N,N,NA,laying date,Phen,number of recruits,F,-0.391,0.211,1,1,NA,NA,NA,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,39,M,Y,C,culd,OtherMO,survival adult,S,-0.04,0.05,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,39,M,Y,C,culd,OtherMO,survival adult,S,-0.06,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,39,M,Y,C,culd,OtherMO,survival adult,S,0.06,0.08,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2003,"Heron Island, southern Great Barrier Reef, Australia",8,39,M,Y,C,culd,OtherMO,survival adult,S,0.02,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,40,M,Y,C,culd,OtherMO,survival juvenile,S,-0.01,0.08,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,40,M,Y,C,culd,OtherMO,survival juvenile,S,-0.14,0.2,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,40,M,Y,C,culd,OtherMO,survival juvenile,S,-0.1,0.1,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,41,M,Y,C,cull,OtherMO,survival adult,S,0.18,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,41,M,Y,C,cull,OtherMO,survival adult,S,0.06,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,41,M,Y,C,cull,OtherMO,survival adult,S,0.01,0.08,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2003,"Heron Island, southern Great Barrier Reef, Australia",8,41,M,Y,C,cull,OtherMO,survival adult,S,0.16,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,42,M,Y,C,cull,OtherMO,survival juvenile,S,-0.07,0.09,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,42,M,Y,C,cull,OtherMO,survival juvenile,S,-0.14,0.19,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,42,M,Y,C,cull,OtherMO,survival juvenile,S,-0.11,0.1,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,43,M,Y,C,culw,OtherMO,survival adult,S,0.07,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,43,M,Y,C,culw,OtherMO,survival adult,S,0.06,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,43,M,Y,C,culw,OtherMO,survival adult,S,0.09,0.08,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2003,"Heron Island, southern Great Barrier Reef, Australia",8,43,M,Y,C,culw,OtherMO,survival adult,S,-0.12,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,44,M,Y,C,culw,OtherMO,survival juvenile,S,0.16,0.08,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,44,M,Y,C,culw,OtherMO,survival juvenile,S,0.15,0.19,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,44,M,Y,C,culw,OtherMO,survival juvenile,S,0.11,0.11,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,45,M,Y,C,tail,OtherMO,survival adult,S,-0.06,0.05,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,45,M,Y,C,tail,OtherMO,survival adult,S,0.01,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,45,M,Y,C,tail,OtherMO,survival adult,S,-0.04,0.08,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2003,"Heron Island, southern Great Barrier Reef, Australia",8,45,M,Y,C,tail,OtherMO,survival adult,S,0.08,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,46,M,Y,C,tail,OtherMO,survival juvenile,S,0.07,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,46,M,Y,C,tail,OtherMO,survival juvenile,S,-0.32,0.2,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,46,M,Y,C,tail,OtherMO,survival juvenile,S,0.11,0.1,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,47,M,Y,C,tarsus,OtherMO,survival adult,S,-0.11,0.05,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,47,M,Y,C,tarsus,OtherMO,survival adult,S,-0.05,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,47,M,Y,C,tarsus,OtherMO,survival adult,S,-0.05,0.08,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2003,"Heron Island, southern Great Barrier Reef, Australia",8,47,M,Y,C,tarsus,OtherMO,survival adult,S,-0.16,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,48,M,Y,C,tarsus,OtherMO,survival juvenile,S,0.03,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,48,M,Y,C,tarsus,OtherMO,survival juvenile,S,-0.09,0.17,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,48,M,Y,C,tarsus,OtherMO,survival juvenile,S,0.08,0.09,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,49,M,Y,C,wing,OtherMO,survival adult,S,0.01,0.05,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,49,M,Y,C,wing,OtherMO,survival adult,S,-0.03,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,49,M,Y,C,wing,OtherMO,survival adult,S,0.03,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2003,"Heron Island, southern Great Barrier Reef, Australia",8,49,M,Y,C,wing,OtherMO,survival adult,S,-0.06,0.07,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2000,"Heron Island, southern Great Barrier Reef, Australia",8,50,M,Y,C,wing,OtherMO,survival juvenile,S,-0.06,0.06,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2001,"Heron Island, southern Great Barrier Reef, Australia",8,50,M,Y,C,wing,OtherMO,survival juvenile,S,0.32,0.2,0,1,1,0,0,0
+Clegg et al. ,2008,Evolution,Zosterops lateralis chlorocephalus,V,2002,"Heron Island, southern Great Barrier Reef, Australia",8,50,M,Y,C,wing,OtherMO,survival juvenile,S,-0.1,0.1,0,1,1,0,0,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Eleuthera ,9,51,N,N,NA,Body mass,Size,female viability,S,0.177,0.26,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Eleuthera ,9,51,N,N,NA,Body mass,Size,female viability,S,0.142,0.203,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Eleuthera ,9,52,N,N,NA,Body mass,Size,male viability,S,0.058,0.322,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Eleuthera ,9,52,N,N,NA,Body mass,Size,male viability,S,-0.561,0.383,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Eleuthera ,9,53,N,N,NA,SVL,Size,female viability,S,-0.032,0.26,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Eleuthera ,9,53,N,N,NA,SVL,Size,female viability,S,0.07,0.203,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Eleuthera ,9,54,N,N,NA,SVL,Size,male viability,S,0.192,0.322,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Eleuthera ,9,54,N,N,NA,SVL,Size,male viability,S,0.834,0.383,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Flamingo BayCay,9,55,N,N,NA,Body mass,Size,female viability,S,-0.843,0.603,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Flamingo BayCay,9,55,N,N,NA,Body mass,Size,female viability,S,-0.051,0.208,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Flamingo BayCay,9,55,N,N,NA,Body mass,Size,female viability,S,-0.158,0.195,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Flamingo BayCay,9,56,N,N,NA,Body mass,Size,male viability,S,0.391,0.528,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Flamingo BayCay,9,56,N,N,NA,Body mass,Size,male viability,S,-0.486,0.465,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Flamingo BayCay,9,56,N,N,NA,Body mass,Size,male viability,S,0.664,0.561,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Flamingo BayCay,9,56,N,N,NA,Body mass,Size,male viability,S,0.325,0.453,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Flamingo BayCay,9,56,N,N,NA,Body mass,Size,male viability,S,0.356,0.169,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Flamingo BayCay,9,57,N,N,NA,SVL,Size,female viability,S,1.325,0.586,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Flamingo BayCay,9,57,N,N,NA,SVL,Size,female viability,S,0.212,0.201,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Flamingo BayCay,9,57,N,N,NA,SVL,Size,female viability,S,0.164,0.196,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Flamingo BayCay,9,58,N,N,NA,SVL,Size,male viability,S,-0.192,0.528,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Flamingo BayCay,9,58,N,N,NA,SVL,Size,male viability,S,-0.037,0.489,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Flamingo BayCay,9,58,N,N,NA,SVL,Size,male viability,S,-0.779,0.561,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Flamingo BayCay,9,58,N,N,NA,SVL,Size,male viability,S,0.062,0.325,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Flamingo BayCay,9,58,N,N,NA,SVL,Size,male viability,S,-0.42,0.169,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Great Exuma ,9,59,N,N,NA,Body mass,Size,female viability,S,-0.072,0.222,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Great Exuma ,9,59,N,N,NA,Body mass,Size,female viability,S,0.255,0.295,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Great Exuma ,9,59,N,N,NA,Body mass,Size,female viability,S,0.002,0.304,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2010,Great Exuma ,9,59,N,N,NA,Body mass,Size,female viability,S,0.092,0.195,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Great Exuma ,9,60,N,N,NA,SVL,Size,female viability,S,0.249,0.223,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Great Exuma ,9,60,N,N,NA,SVL,Size,female viability,S,-0.372,0.295,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Great Exuma ,9,60,N,N,NA,SVL,Size,female viability,S,-0.21,0.304,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2010,Great Exuma ,9,60,N,N,NA,SVL,Size,female viability,S,0.067,0.195,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Heron Cay,9,61,N,N,NA,Body mass,Size,female viability,S,0.263,0.294,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Heron Cay,9,61,N,N,NA,Body mass,Size,female viability,S,-0.067,0.309,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Heron Cay,9,62,N,N,NA,Body mass,Size,male viability,S,0.489,0.726,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Heron Cay,9,62,N,N,NA,Body mass,Size,male viability,S,0.326,0.454,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Heron Cay,9,63,N,N,NA,SVL,Size,female viability,S,-0.222,0.294,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Heron Cay,9,63,N,N,NA,SVL,Size,female viability,S,0.224,0.31,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Heron Cay,9,64,N,N,NA,SVL,Size,male viability,S,-0.073,0.727,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Heron Cay,9,64,N,N,NA,SVL,Size,male viability,S,-0.124,0.454,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2003,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,0.431,0.399,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2004,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,0.499,0.334,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,0.172,0.243,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,-0.007,0.26,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,0.173,0.33,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,0.551,0.424,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2010,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,0.391,0.255,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2011,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,-0.135,0.295,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2012,Kidd Cay,9,65,N,N,NA,Body mass,Size,male viability,S,0.24,0.311,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2003,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,-0.327,0.399,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2004,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,-0.485,0.334,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,-0.315,0.239,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,0.071,0.26,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,0.152,0.335,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,-0.518,0.429,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2010,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,-0.074,0.255,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2011,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,0.102,0.294,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2012,Kidd Cay,9,66,N,N,NA,SVL,Size,male viability,S,-0.199,0.311,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Kidd Cay ,9,67,N,N,NA,Body mass,Size,female viability,S,0.015,0.248,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Kidd Cay ,9,67,N,N,NA,Body mass,Size,female viability,S,-0.205,0.145,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Kidd Cay ,9,67,N,N,NA,Body mass,Size,female viability,S,0.221,0.2,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Kidd Cay ,9,67,N,N,NA,Body mass,Size,female viability,S,0.541,0.171,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2010,Kidd Cay ,9,67,N,N,NA,Body mass,Size,female viability,S,-0.424,0.246,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2012,Kidd Cay ,9,67,N,N,NA,Body mass,Size,female viability,S,0.131,0.137,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Kidd Cay ,9,68,N,N,NA,SVL,Size,female viability,S,0.115,0.248,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Kidd Cay ,9,68,N,N,NA,SVL,Size,female viability,S,0.426,0.145,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2007,Kidd Cay ,9,68,N,N,NA,SVL,Size,female viability,S,-0.097,0.196,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2008,Kidd Cay ,9,68,N,N,NA,SVL,Size,female viability,S,-0.504,0.165,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2010,Kidd Cay ,9,68,N,N,NA,SVL,Size,female viability,S,0.568,0.246,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2012,Kidd Cay ,9,68,N,N,NA,SVL,Size,female viability,S,-0.07,0.138,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Nightmare Cay,9,69,N,N,NA,Body mass,Size,male viability,S,-0.584,0.511,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Nightmare Cay,9,69,N,N,NA,Body mass,Size,male viability,S,0.097,0.319,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Nightmare Cay,9,69,N,N,NA,Body mass,Size,male viability,S,-0.165,0.335,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2005,Nightmare Cay,9,70,N,N,NA,SVL,Size,male viability,S,0.737,0.514,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2006,Nightmare Cay,9,70,N,N,NA,SVL,Size,male viability,S,-0.125,0.32,0,0,NA,NA,NA,0
+Cox & Calsbeek,2015,Functional Ecology,Anolis sagrei,V,2009,Nightmare Cay,9,70,N,N,NA,SVL,Size,male viability,S,0.176,0.328,0,0,NA,NA,NA,0
+Grant,1985,Evolution,Geospiza conirostris,V,1980,"Isla Genovesa, Galapagos, Ecuador",13,71,M,Y,C,Bill Depth,OtherMO,Pairing Date,M,-0.19,0.09,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1981,"Isla Genovesa, Galapagos, Ecuador",13,71,M,Y,C,Bill Depth,OtherMO,Pairing Date,M,0.02,0.1,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1982,"Isla Genovesa, Galapagos, Ecuador",13,71,M,Y,C,Bill Depth,OtherMO,Pairing Date,M,0.05,0.1,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1980,"Isla Genovesa, Galapagos, Ecuador",13,72,M,Y,C,Bill Length,OtherMO,Pairing Date,M,0.12,0.1,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1981,"Isla Genovesa, Galapagos, Ecuador",13,72,M,Y,C,Bill Length,OtherMO,Pairing Date,M,-0.17,0.19,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1982,"Isla Genovesa, Galapagos, Ecuador",13,72,M,Y,C,Bill Length,OtherMO,Pairing Date,M,0.16,0.19,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1980,"Isla Genovesa, Galapagos, Ecuador",13,73,M,Y,C,Bill Width,OtherMO,Pairing Date,M,-0.21,0.19,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1981,"Isla Genovesa, Galapagos, Ecuador",13,73,M,Y,C,Bill Width,OtherMO,Pairing Date,M,0.08,0.19,0,1,0,0,0,0
+Grant,1985,Evolution,Geospiza conirostris,V,1982,"Isla Genovesa, Galapagos, Ecuador",13,73,M,Y,C,Bill Width,OtherMO,Pairing Date,M,0.23,0.19,0,1,0,0,0,0
+Holland and Chamberlain,2007,Ecology,Pachycereus schottii,P,2002,"Organ Pipe Cactus National Monument, Arizona, USA",14,74,N,N,NA,Number of ovules,OtherLH,Fecundity - seed production per fruit per plant,F,0.168,0.066,0,0,NA,NA,NA,0
+Holland and Chamberlain,2007,Ecology,Pachycereus schottii,P,2005,"Organ Pipe Cactus National Monument, Arizona, USA",14,74,N,N,NA,Number of ovules,OtherLH,Fecundity - seed production per fruit per plant,F,0.26,0.065,0,0,NA,NA,NA,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1981,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.256,0.097,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1983,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.194,0.072,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1984,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.305,0.081,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1985,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.244,0.071,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1986,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.041,0.09,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1987,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.233,0.069,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1988,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.014,0.103,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1989,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.109,0.187,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1990,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.227,0.115,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1991,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.299,0.108,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1992,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.11,0.078,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1993,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.373,0.063,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1994,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.16,0.066,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1995,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.245,0.115,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1996,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.519,0.11,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1997,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.313,0.069,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1998,Swedish Island of Gotland in the Baltic Sea,17,75,M,Y,C,fledgling body condition,OtherMO,survival,S,0.279,0.092,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1981,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.211,0.097,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1983,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.093,0.072,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1984,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.296,0.081,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1985,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.06,0.071,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1986,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.292,0.091,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1987,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.202,0.068,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1988,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.006,0.103,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1989,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.352,0.187,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1990,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.323,0.115,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1991,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.304,0.108,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1992,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.36,0.078,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1993,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.119,0.063,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1994,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.106,0.066,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1995,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.206,0.116,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1996,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.17,0.11,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1997,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.233,0.069,0,1,1,0,0,0
+Kruuk et al.,2001,American Naturalist,Ficedula albicollis,V,1998,Swedish Island of Gotland in the Baltic Sea,17,76,M,Y,C,fledgling tarsus length,OtherMO,survival,S,0.392,0.092,0,1,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,77,Y,Y,C,date of egg hatch,Phen,Pupal size - 1st generation ,T,0.022,0.013,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,77,Y,Y,C,date of egg hatch,Phen,Pupal size - 1st generation ,T,-0.005,0.008,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,77,Y,Y,C,date of egg hatch,Phen,Pupal size - 1st generation ,T,-0.041,0.012,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,78,Y,Y,C,date of egg hatch,Phen,Pupal size - 2nd generation ,T,-0.094,0.01,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,78,Y,Y,C,date of egg hatch,Phen,Pupal size - 2nd generation ,T,-0.025,0.008,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,78,Y,Y,C,date of egg hatch,Phen,Pupal size - 2nd generation ,T,-0.05,0.011,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,79,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, all causes, 1st generation ",S,0.107,0.33,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,79,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, all causes, 1st generation ",S,0.031,0.021,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,79,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, all causes, 1st generation ",S,0.012,0.031,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,80,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, all causes, 2nd generation",S,-0.105,0.024,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,80,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, all causes, 2nd generation",S,0.017,0.025,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,80,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, all causes, 2nd generation",S,-0.031,0.023,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,81,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, other causes, 1st generation ",S,0.07,0.03,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,81,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, other causes, 1st generation ",S,0.02,0.017,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,81,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, other causes, 1st generation ",S,-0.009,0.027,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,82,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, other causes, 2nd generation ",S,-0.085,0.02,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,82,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, other causes, 2nd generation ",S,0.016,0.017,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,82,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, other causes, 2nd generation ",S,-0.02,0.019,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,83,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, parasitoid induced, 1st generation ",S,0.062,0.021,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,83,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, parasitoid induced, 1st generation ",S,0.015,0.015,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,83,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, parasitoid induced, 1st generation ",S,0.024,0.018,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,84,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, parasitoid induced, 2nd generation ",S,-0.037,0.017,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,84,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, parasitoid induced, 2nd generation ",S,0.003,0.022,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,84,Y,Y,C,date of egg hatch,Phen,"Survival - larval mortality, parasitoid induced, 2nd generation ",S,-0.014,0.015,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,85,Y,Y,C,date of egg hatch,Phen,Survival (larval mortality) + pupal size - 1st generation,S,0.133,0.035,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,85,Y,Y,C,date of egg hatch,Phen,Survival (larval mortality) + pupal size - 1st generation,S,0.026,0.022,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,85,Y,Y,C,date of egg hatch,Phen,Survival (larval mortality) + pupal size - 1st generation,S,-0.032,0.033,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,86,Y,Y,C,date of egg hatch,Phen,Survival (larval mortality) + pupal size - 2nd generation,S,-0.192,0.025,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,86,Y,Y,C,date of egg hatch,Phen,Survival (larval mortality) + pupal size - 2nd generation,S,-0.009,0.027,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1997,"Cuivre River State Park, near Troy, Missouri, USA",18,86,Y,Y,C,date of egg hatch,Phen,Survival (larval mortality) + pupal size - 2nd generation,S,-0.085,0.025,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,87,Y,Y,C,pupal mass,Size,"Survival - adult mortality, 1st generation",S,0.044,0.01,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,87,Y,Y,C,pupal mass,Size,"Survival - adult mortality, 1st generation",S,0.016,0.008,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1995,"Cuivre River State Park, near Troy, Missouri, USA",18,88,Y,Y,C,pupal mass,Size,"Survival - adult mortality, 2nd generation",S,0.056,0.096,0,0,1,0,0,0
+Lill,2001,Evolution,Psilocorsis quercicella,I,1996,"Cuivre River State Park, near Troy, Missouri, USA",18,88,Y,Y,C,pupal mass,Size,"Survival - adult mortality, 2nd generation",S,0.127,0.018,0,0,1,0,0,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,89,N,N,NA,Flower number,OtherLH,Female fecundity - fruits produced,F,0.402,0.043,1,0,NA,NA,NA,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,89,N,N,NA,Flower number,OtherLH,Female fecundity - fruits produced,F,0.42,0.054,1,0,NA,NA,NA,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,89,N,N,NA,Flower number,OtherLH,Female fecundity - fruits produced,F,0.31,0.014,1,0,NA,NA,NA,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,90,N,N,NA,Flower number,OtherLH,Male fecundity - pollen removed,F,0.35,0.066,1,0,NA,NA,NA,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,90,N,N,NA,Flower number,OtherLH,Male fecundity - pollen removed,F,0.511,0.082,1,0,NA,NA,NA,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,90,N,N,NA,Flower number,OtherLH,Male fecundity - pollen removed,F,0.344,0.028,1,0,NA,NA,NA,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,91,M,Y,C,Midflowering date,Phen,Female fecundity - fruits produced,F,-0.009,0.041,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,91,M,Y,C,Midflowering date,Phen,Female fecundity - fruits produced,F,-0.062,0.051,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,91,M,Y,C,Midflowering date,Phen,Female fecundity - fruits produced,F,-0.002,0.013,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,92,M,Y,C,Midflowering date,Phen,Male fecundity - pollen removed,F,-0.006,0.063,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,92,M,Y,C,Midflowering date,Phen,Male fecundity - pollen removed,F,0.188,0.078,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,92,M,Y,C,Midflowering date,Phen,Male fecundity - pollen removed,F,-0.013,0.025,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,93,Y,Y,C,Spur length,OtherMO,Female fecundity - fruits produced,F,0.055,0.043,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,93,Y,Y,C,Spur length,OtherMO,Female fecundity - fruits produced,F,0.106,0.051,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,93,Y,Y,C,Spur length,OtherMO,Female fecundity - fruits produced,F,0.015,0.013,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,94,Y,Y,C,Spur length,OtherMO,Male fecundity - pollen removed,F,0.034,0.066,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,94,Y,Y,C,Spur length,OtherMO,Male fecundity - pollen removed,F,0.188,0.077,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,94,Y,Y,C,Spur length,OtherMO,Male fecundity - pollen removed,F,0.007,0.025,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,95,M,Y,C,Stalk length,OtherMO,Female fecundity - fruits produced,F,0.079,0.047,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,95,M,Y,C,Stalk length,OtherMO,Female fecundity - fruits produced,F,0.15,0.054,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,95,M,Y,C,Stalk length,OtherMO,Female fecundity - fruits produced,F,0.014,0.014,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1993,"Bergeby, Dalarna, central Sweden",19,96,M,Y,C,Stalk length,OtherMO,Male fecundity - pollen removed,F,0.19,0.073,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1994,"Bergeby, Dalarna, central Sweden",19,96,M,Y,C,Stalk length,OtherMO,Male fecundity - pollen removed,F,-0.031,0.081,1,0,0,1,1,0
+Maad,2000,Evolution,Platanthera bifolia,P,1995,"Bergeby, Dalarna, central Sweden",19,96,M,Y,C,Stalk length,OtherMO,Male fecundity - pollen removed,F,0.017,0.028,1,0,0,1,1,0
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1989,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,-1.13,0.52,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1990,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.16,0.54,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1991,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,-0.01,0.13,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1992,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.46,0.28,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1993,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.02,0.07,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1994,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,-0.08,0.21,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1995,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,-0.29,0.08,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1996,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.07,0.58,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1997,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,-0.17,0.11,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1998,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.06,0.12,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1999,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.31,0.25,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,2000,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.51,0.29,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,2001,"southwestern Yukon, Canada",20,97,N,N,NA,litter size,OtherLH,survival,S,0.13,0.07,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1989,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,0.24,0.43,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1990,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.83,0.53,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1991,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.15,0.12,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1992,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.5,0.18,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1993,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.05,0.07,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1994,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,0.03,0.25,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1995,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,0.09,0.09,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1996,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.4,0.49,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1997,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.03,0.11,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1998,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.14,0.12,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,1999,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.51,0.27,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,2000,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,-0.15,0.27,0,0,NA,NA,NA,1
+McAdam and Boutin,2003,Evolution,Tamiasciurus hudsonicus,V,2001,"southwestern Yukon, Canada",20,98,N,N,NA,partuition date,Phen,survival,S,0.11,0.15,0,0,NA,NA,NA,1
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.054,0.045,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.082,0.036,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.033,0.045,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.051,0.041,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.064,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.054,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.071,0.047,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.012,0.061,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.139,0.036,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,99,M,Y,C,Body mass,Size,Fledglings,F,0.056,0.049,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.053,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.023,0.017,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.083,0.031,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.032,0.028,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.046,0.028,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.065,0.034,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.076,0.029,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.048,0.035,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.128,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,100,M,Y,C,Body mass,Size,Hatchlings,F,0.153,0.053,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.101,0.052,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.097,0.037,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.097,0.05,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.079,0.047,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.088,0.04,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.122,0.044,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.139,0.055,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.043,0.067,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.24,0.044,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,101,M,Y,C,Body mass,Size,Overall nesting,F,0.197,0.069,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.192,0.048,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.119,0.038,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,-0.026,0.044,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.13,0.043,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.095,0.033,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.123,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.126,0.05,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.106,0.066,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.058,0.04,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,102,M,Y,C,Clutch size,OtherLH,Fledglings,F,0.164,0.053,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.227,0.035,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.158,0.018,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.285,0.031,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.153,0.03,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.198,0.03,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.133,0.034,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.26,0.031,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.13,0.038,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.122,0.036,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,103,M,Y,C,Clutch size,OtherLH,Hatchlings,F,0.169,0.056,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.21,0.057,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.143,0.04,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.249,0.052,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.121,0.05,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.126,0.042,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.134,0.044,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.223,0.058,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.087,0.073,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.086,0.05,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,104,M,Y,C,Clutch size,OtherLH,Overall nesting,F,0.16,0.072,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.09,0.047,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.041,0.037,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.007,0.044,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.05,0.042,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.07,0.034,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.089,0.032,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,0.038,0.049,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,0.03,0.068,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.138,0.039,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,105,N,N,NA,Laying date,Phen,Fledglings,F,-0.048,0.052,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,-0.019,0.036,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,-0.041,0.018,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,0.055,0.031,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,0.018,0.03,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,-0.053,0.031,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,-0.011,0.035,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,0.011,0.031,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,-0.022,0.038,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,-0.08,0.035,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,106,N,N,NA,Laying date,Phen,Hatchlings,F,0.124,0.056,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,-0.105,0.059,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,-0.051,0.039,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,0.095,0.052,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,-0.038,0.049,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,-0.104,0.043,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,-0.109,0.045,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,0.035,0.058,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,0.008,0.074,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,-0.182,0.049,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,107,N,N,NA,Laying date,Phen,Overall nesting,F,0.066,0.072,1,1,NA,NA,NA,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,-0.02,0.045,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,-0.031,0.036,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,-0.003,0.044,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,0.002,0.04,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,0.002,0.033,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,-0.017,0.033,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,0.068,0.051,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,-0.01,0.063,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,-0.004,0.037,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,108,M,Y,C,Wing length,OtherMO,Fledglings,F,0.037,0.049,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,-0.051,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,-0.047,0.017,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,0.007,0.031,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,0.02,0.028,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,0.01,0.029,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,-0.041,0.034,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,-0.008,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,0.024,0.036,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,0.01,0.032,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,109,M,Y,C,Wing length,OtherMO,Hatchlings,F,-0.005,0.053,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2004,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,-0.063,0.052,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2005,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,-0.063,0.037,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2006,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,-0.009,0.05,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2007,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,0.006,0.046,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2008,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,0.003,0.041,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2009,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,-0.055,0.044,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2010,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,0.064,0.059,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2011,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,0.002,0.069,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2012,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,-0.003,0.044,1,1,1,0,0,0
+Millet et al,2015,Evolutionary Biology,Tachycineta bicolor,V,2013,Southern Québec,21,110,M,Y,C,Wing length,OtherMO,Overall nesting,F,0.007,0.068,1,1,1,0,0,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,111,N,N,NA,body weight -  adult males,Size,survival,S,-0.036,0.163,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,111,N,N,NA,body weight -  adult males,Size,survival,S,0.214,0.163,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,111,N,N,NA,body weight -  adult males,Size,survival,S,0.021,0.058,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,111,N,N,NA,body weight -  adult males,Size,survival,S,0.137,0.133,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,111,N,N,NA,body weight -  adult males,Size,survival,S,-0.253,0.22,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,111,N,N,NA,body weight -  adult males,Size,survival,S,0.15,0.18,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,112,N,N,NA,body weight - adult females,Size,survival,S,0.091,0.047,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,112,N,N,NA,body weight - adult females,Size,survival,S,0.169,0.069,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,112,N,N,NA,body weight - adult females,Size,survival,S,0.029,0.017,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,112,N,N,NA,body weight - adult females,Size,survival,S,0.114,0.037,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,112,N,N,NA,body weight - adult females,Size,survival,S,-0.022,0.051,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,112,N,N,NA,body weight - adult females,Size,survival,S,0.075,0.026,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,113,N,N,NA,body weight - juveniles,Size,survival,S,-0.163,0.071,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,113,N,N,NA,body weight - juveniles,Size,survival,S,0.653,0.339,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,113,N,N,NA,body weight - juveniles,Size,survival,S,-0.034,0.07,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,113,N,N,NA,body weight - juveniles,Size,survival,S,0.598,0.152,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,113,N,N,NA,body weight - juveniles,Size,survival,S,0.224,0.372,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1995,"Scottish island of Hirta, St. Kilda",22,113,N,N,NA,body weight - juveniles,Size,survival,S,0.117,0.063,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,113,N,N,NA,body weight - juveniles,Size,survival,S,0.608,0.176,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,114,N,N,NA,hindlimb length - adult females,OtherMO,survival,S,-0.052,0.054,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,114,N,N,NA,hindlimb length - adult females,OtherMO,survival,S,0.017,0.071,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,114,N,N,NA,hindlimb length - adult females,OtherMO,survival,S,0.024,0.019,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,114,N,N,NA,hindlimb length - adult females,OtherMO,survival,S,-0.05,0.035,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,114,N,N,NA,hindlimb length - adult females,OtherMO,survival,S,0.019,0.05,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,114,N,N,NA,hindlimb length - adult females,OtherMO,survival,S,-0.015,0.025,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,115,N,N,NA,hindlimb length - adult males,OtherMO,survival,S,-0.189,0.219,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,115,N,N,NA,hindlimb length - adult males,OtherMO,survival,S,-0.07,0.183,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,115,N,N,NA,hindlimb length - adult males,OtherMO,survival,S,-0.051,0.061,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,115,N,N,NA,hindlimb length - adult males,OtherMO,survival,S,0.067,0.128,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,115,N,N,NA,hindlimb length - adult males,OtherMO,survival,S,0.244,0.197,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,115,N,N,NA,hindlimb length - adult males,OtherMO,survival,S,0.022,0.159,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,116,N,N,NA,incisor breadth -  adult males,OtherMO,survival,S,0.07,0.242,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,116,N,N,NA,incisor breadth -  adult males,OtherMO,survival,S,0.392,0.167,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,116,N,N,NA,incisor breadth -  adult males,OtherMO,survival,S,0.009,0.063,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,116,N,N,NA,incisor breadth -  adult males,OtherMO,survival,S,-0.121,0.106,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,116,N,N,NA,incisor breadth -  adult males,OtherMO,survival,S,-0.007,0.178,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,116,N,N,NA,incisor breadth -  adult males,OtherMO,survival,S,-0.052,0.114,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,117,N,N,NA,incisor breadth - adult females,OtherMO,survival,S,0,0.051,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,117,N,N,NA,incisor breadth - adult females,OtherMO,survival,S,0.078,0.062,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,117,N,N,NA,incisor breadth - adult females,OtherMO,survival,S,-0.001,0.016,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,117,N,N,NA,incisor breadth - adult females,OtherMO,survival,S,-0.019,0.03,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,117,N,N,NA,incisor breadth - adult females,OtherMO,survival,S,-0.036,0.044,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,117,N,N,NA,incisor breadth - adult females,OtherMO,survival,S,0.017,0.02,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",22,118,N,N,NA,incisor breadth - juveniles,OtherMO,survival,S,0.113,0.072,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",22,118,N,N,NA,incisor breadth - juveniles,OtherMO,survival,S,0.118,0.282,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",22,118,N,N,NA,incisor breadth - juveniles,OtherMO,survival,S,-0.098,0.07,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",22,118,N,N,NA,incisor breadth - juveniles,OtherMO,survival,S,-0.144,0.14,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",22,118,N,N,NA,incisor breadth - juveniles,OtherMO,survival,S,-0.11,0.371,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1995,"Scottish island of Hirta, St. Kilda",22,118,N,N,NA,incisor breadth - juveniles,OtherMO,survival,S,-0.108,0.062,0,0,NA,NA,NA,0
+Milner et al.,1999,Journal of Animal Ecology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",22,118,N,N,NA,incisor breadth - juveniles,OtherMO,survival,S,-0.285,0.175,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,119,N,N,NA,Clutch size,OtherLH,Survival rate of offspring (absolute recruitment),S,0.291,0.259,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,119,N,N,NA,Clutch size,OtherLH,Survival rate of offspring (absolute recruitment),S,0.104,0.526,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,120,N,N,NA,Female condition,OtherMO,Survival rate of offspring (absolute recruitment),S,0.122,0.452,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,120,N,N,NA,Female condition,OtherMO,Survival rate of offspring (absolute recruitment),S,-0.089,0.509,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,121,N,N,NA,Female condition,OtherMO,Survival rate of offspring (proportion),S,0.276,0.485,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,121,N,N,NA,Female condition,OtherMO,Survival rate of offspring (proportion),S,-0.22,0.378,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,122,N,N,NA,Female mass,Size,Survival rate of offspring (absolute recruitment),S,-0.595,0.454,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,122,N,N,NA,Female mass,Size,Survival rate of offspring (absolute recruitment),S,-0.052,0.831,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,123,N,N,NA,Female mass,Size,Survival rate of offspring (proportion),S,-0.759,0.472,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,123,N,N,NA,Female mass,Size,Survival rate of offspring (proportion),S,0.111,0.507,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,124,N,N,NA,Laying date,Phen,Survival rate of offspring (absolute recruitment),S,-0.022,0.35,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,124,N,N,NA,Laying date,Phen,Survival rate of offspring (absolute recruitment),S,-1.993,1.7,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,125,N,N,NA,Laying date,Phen,Survival rate of offspring (proportion),S,0.039,0.378,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,125,N,N,NA,Laying date,Phen,Survival rate of offspring (proportion),S,-1.804,1.368,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,126,N,N,NA,Number of partners,BE,Survival rate of offspring (absolute recruitment),S,0.422,0.232,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,126,N,N,NA,Number of partners,BE,Survival rate of offspring (absolute recruitment),S,-0.009,0.315,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,127,N,N,NA,Number of partners,BE,Survival rate of offspring (proportion),S,0.511,0.237,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,127,N,N,NA,Number of partners,BE,Survival rate of offspring (proportion),S,-0.041,0.256,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,128,N,N,NA,Offspring mass,Size,Survival rate of offspring (absolute recruitment),S,0.569,0.309,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,128,N,N,NA,Offspring mass,Size,Survival rate of offspring (absolute recruitment),S,0.492,0.516,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1989,"south of Gothenburg, Sweden",24,129,N,N,NA,Offspring mass,Size,Survival rate of offspring (proportion),S,0.624,0.257,0,0,NA,NA,NA,0
+Olsson and Madsen,2001,Functional Ecology,Lacerta agilis,V,1990,"south of Gothenburg, Sweden",24,129,N,N,NA,Offspring mass,Size,Survival rate of offspring (proportion),S,0.465,0.368,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1991,"Estacion de Biologia Chamela, Mexico",25,130,N,N,NA,Androecium biomass,OtherMO,Fecundity - fruit production,F,0.2,0.17,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1992,"Estacion de Biologia Chamela, Mexico",25,130,N,N,NA,Androecium biomass,OtherMO,Fecundity - fruit production,F,0.41,0.53,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1991,"Estacion de Biologia Chamela, Mexico",25,131,N,N,NA,Gynoecium biomass,OtherMO,Fecundity - fruit production,F,0.43,0.199,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1992,"Estacion de Biologia Chamela, Mexico",25,131,N,N,NA,Gynoecium biomass,OtherMO,Fecundity - fruit production,F,0.09,0.07,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1991,"Estacion de Biologia Chamela, Mexico",25,132,N,N,NA,Petals biomass,OtherMO,Fecundity - fruit production,F,0.16,0.16,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1992,"Estacion de Biologia Chamela, Mexico",25,132,N,N,NA,Petals biomass,OtherMO,Fecundity - fruit production,F,0.09,0.25,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1991,"Estacion de Biologia Chamela, Mexico",25,133,N,N,NA,Sepals,OtherMO,Fecundity - fruit production,F,0.0064,0.17,0,0,NA,NA,NA,0
+Parra-Tabla and Bullock,2000,Plant Systematics and Evolution,Ipomoea wolcottiana,P,1992,"Estacion de Biologia Chamela, Mexico",25,133,N,N,NA,Sepals,OtherMO,Fecundity - fruit production,F,0.001,0.23,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Anduze,26,134,N,N,NA,date of initial flowering,Phen,annual seed production,F,-0.25,0.43,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Anduze,26,134,N,N,NA,date of initial flowering,Phen,annual seed production,F,-0.7,0.6,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Anduze,26,135,N,N,NA,flowering duration,Phen,annual seed production,F,0.7,0.34,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Anduze,26,135,N,N,NA,flowering duration,Phen,annual seed production,F,0.05,0.39,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Anduze,26,136,N,N,NA,flowering synchronization,Phen,annual seed production,F,-0.25,0.34,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Anduze,26,136,N,N,NA,flowering synchronization,Phen,annual seed production,F,-0.39,0.41,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Anduze,26,137,N,N,NA,leaf surface area,OtherMO,annual seed production,F,0.2,0.27,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Anduze,26,137,N,N,NA,leaf surface area,OtherMO,annual seed production,F,-0.44,0.25,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Anduze,26,138,N,N,NA,stem height ,OtherMO,annual seed production,F,0.04,0.3,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Anduze,26,138,N,N,NA,stem height ,OtherMO,annual seed production,F,0.25,0.27,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Laverune,26,139,N,N,NA,date of initial flowering,Phen,annual seed production,F,0.11,0.3,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Laverune,26,139,N,N,NA,date of initial flowering,Phen,annual seed production,F,-0.09,0.17,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Laverune,26,140,N,N,NA,flowering duration,Phen,annual seed production,F,0.3,0.31,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Laverune,26,140,N,N,NA,flowering duration,Phen,annual seed production,F,-0.02,0.19,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Laverune,26,141,N,N,NA,flowering synchronization,Phen,annual seed production,F,0.3,0.32,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Laverune,26,141,N,N,NA,flowering synchronization,Phen,annual seed production,F,-0.23,0.2,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Laverune,26,142,N,N,NA,leaf surface area,OtherMO,annual seed production,F,0.54,0.21,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Laverune,26,142,N,N,NA,leaf surface area,OtherMO,annual seed production,F,0.14,0.16,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1995,Laverune,26,143,N,N,NA,stem height ,OtherMO,annual seed production,F,0.21,0.19,0,0,NA,NA,NA,0
+Petit and Thompson,1998,Journal of Ecology,Arrhenatherum elatius,P,1996,Laverune,26,143,N,N,NA,stem height ,OtherMO,annual seed production,F,0.43,0.16,0,0,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1993,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.545,0.566,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1994,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.032,0.426,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1995,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.089,0.321,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1996,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.043,0.189,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1997,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.338,0.371,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.18,0.293,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.385,0.48,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.553,0.217,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.154,0.213,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.229,0.248,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.185,0.259,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.461,0.275,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.055,0.298,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.4,0.293,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.367,0.291,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.543,0.389,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Deciduous-Mur0,27,144,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.035,0.27,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1993,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,0.083,0.566,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1994,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,0.061,0.426,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1995,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,0.002,0.321,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1996,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.234,0.189,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1997,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.074,0.371,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.169,0.293,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,0.023,0.48,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.12,0.217,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.485,0.213,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.542,0.248,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.594,0.259,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,0.118,0.275,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.399,0.198,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.09,0.293,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.272,0.291,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,0.035,0.389,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Deciduous-Mur0,27,145,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.283,0.27,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.647,0.934,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,2.757,2.489,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.408,0.588,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.125,0.358,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.368,0.695,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.384,0.408,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.326,0.321,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.085,0.319,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.713,0.489,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.386,0.559,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.127,0.544,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Evergreen-Muro,27,146,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.135,0.404,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,0.132,0.934,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,3.132,2.489,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,0.03,0.588,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,0.214,0.358,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.175,0.695,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.427,0.408,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,0.283,0.321,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,0.333,0.319,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.346,0.489,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.753,0.559,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,0.1,0.544,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Evergreen-Muro,27,147,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.197,0.404,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1980,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.545,0.841,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1981,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.152,3.075,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1982,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.296,0.595,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1983,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.434,0.718,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1984,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.251,0.221,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1985,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.007,0.389,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1986,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.267,0.324,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1987,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.201,0.264,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1988,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.115,0.318,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1989,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.546,0.411,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1990,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.675,0.436,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1991,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.025,0.303,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1992,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.258,0.336,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1993,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.762,0.352,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1994,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.64,0.304,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1995,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.449,0.318,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1996,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.031,0.32,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1997,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.409,1.175,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.318,0.44,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.342,0.431,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.012,0.307,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.215,0.363,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.635,0.371,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-1.134,1.197,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.09,0.283,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.058,0.23,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-1.469,0.693,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.403,0.343,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.123,0.815,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Pirio,27,148,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.415,0.602,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1980,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-1.001,0.841,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1981,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.177,3.075,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1982,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.187,0.595,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1983,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.27,0.718,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1984,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.104,0.221,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1985,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.458,0.389,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1986,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0,0.324,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1987,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.197,0.264,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1988,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.068,0.318,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1989,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.628,0.411,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1990,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.245,0.436,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1991,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.871,0.303,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1992,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.02,0.336,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1993,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.014,0.352,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1994,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.106,0.304,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1995,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.083,0.313,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1996,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.09,0.32,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1997,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.648,1.175,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.047,0.44,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.748,0.431,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.089,0.307,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.267,0.363,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.341,0.371,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-1.071,1.197,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.611,0.283,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.28,0.23,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-1.821,0.693,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.032,0.342,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.841,0.815,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Pirio,27,149,N,N,NA,laying date ,Phen,annual number of recruits,F,0.257,0.602,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1991,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.352,0.29,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1992,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.035,0.3,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1993,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.295,0.328,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1994,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.132,0.361,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1995,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.328,0.328,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1996,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.055,0.202,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1997,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.07,0.219,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.172,0.204,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.703,0.248,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.131,0.182,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.213,0.252,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.18,0.186,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.144,0.139,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.309,0.147,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.053,0.208,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.008,0.144,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.021,0.168,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,-0.169,0.228,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Rouviere,27,150,M,Y,C,Clutch Size,OtherLH,annual number of recruits,F,0.161,0.467,1,1,1,0,0,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1991,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.558,0.29,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1992,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.455,0.3,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1993,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.058,0.323,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1994,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.327,0.361,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1995,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.373,0.328,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1996,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.113,0.202,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1997,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.356,0.219,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1998,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.738,0.204,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,1999,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.363,0.248,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2000,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.032,0.182,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2001,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.239,0.252,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2002,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.16,0.186,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2003,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.324,0.139,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2004,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.042,0.147,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2005,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.023,0.208,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2006,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.053,0.144,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2007,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.153,0.168,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2008,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,-0.346,0.228,1,1,NA,NA,NA,0
+Porlier et al,2012,Journal of Animal Ecology,Cyanistes caeruleus,V,2009,Rouviere,27,151,N,N,NA,laying date ,Phen,annual number of recruits,F,0.06,0.467,1,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1972,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.325,0.04,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1973,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.141,0.071,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1974,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.205,0.057,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1975,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.141,0.057,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1976,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.292,0.065,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1977,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.076,0.065,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1978,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.4,0.111,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1979,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,0.093,0.086,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1980,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.278,0.059,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1981,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.259,0.037,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1982,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.451,0.073,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1983,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.001,0.054,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1984,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.114,0.058,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1985,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.339,0.068,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1986,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.09,0.063,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1987,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.175,0.054,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1988,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.143,0.04,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1989,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.178,0.036,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1990,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.166,0.039,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1991,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.257,0.039,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1992,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.06,0.027,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1993,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.233,0.045,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1994,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.317,0.041,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1995,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.348,0.073,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1996,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,0.122,0.064,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1997,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.059,0.023,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1998,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.121,0.055,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,1999,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.156,0.038,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,2000,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.232,0.041,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,2001,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.214,0.039,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,2002,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.271,0.052,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,2003,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.189,0.052,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,2004,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.141,0.042,0,1,NA,NA,NA,0
+Reed et al.,2009,Journal of Animal Ecology,Uria aalge,V,2005,"Isle of May, Firth of Forth, Scotland",28,152,N,N,NA,laying date,Phen,"breeding success (i.e., number of breeding attempts in which a chick was successfully raised to fledging)",M,-0.736,0.139,0,1,NA,NA,NA,0
+Schemske and Horvitz,1989,Evolution,Calathea ovandensis,P,1984,"Laguna Encantada, Veracruz, Mexico",30,153,N,N,NA,corolla length,OtherMO,fecundity (number of fruits per plant),F,0.059,0.057,0,0,NA,NA,NA,0
+Schemske and Horvitz,1989,Evolution,Calathea ovandensis,P,1985,"Laguna Encantada, Veracruz, Mexico",30,153,N,N,NA,corolla length,OtherMO,fecundity (number of fruits per plant),F,-0.126,0.047,0,0,NA,NA,NA,0
+Schemske and Horvitz,1989,Evolution,Calathea ovandensis,P,1986,"Laguna Encantada, Veracruz, Mexico",30,153,N,N,NA,corolla length,OtherMO,fecundity (number of fruits per plant),F,0.005,0.054,0,0,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1980,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.106,0.11,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1981,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.057,0.092,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1982,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.01,0.094,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1983,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.003,0.069,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1984,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.03,0.087,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1985,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.086,0.071,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1986,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.065,0.075,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1987,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.121,0.075,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1988,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.047,0.067,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1989,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.015,0.068,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1990,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.072,0.074,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1991,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.097,0.074,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1992,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.059,0.067,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1993,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.123,0.062,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1994,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.009,0.057,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1995,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,-0.116,0.065,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1996,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.176,0.065,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1997,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.048,0.063,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1998,Swedish Island of Gotland in the Baltic Sea,31,154,M,Y,C,clutch size - selection on phenotypes,OtherLH,female survival,S,0.012,0.064,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1980,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.135,0.131,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1981,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.048,0.125,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1982,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,-0.018,0.158,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1983,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.09,0.093,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1984,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.243,0.19,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1985,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.073,0.116,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1986,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.021,0.103,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1987,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.104,0.083,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1988,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.076,0.104,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1989,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.076,0.127,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1990,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,-0.238,0.181,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1991,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,-0.079,0.176,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1992,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,-0.037,0.349,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1993,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,-0.082,0.166,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1994,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.233,0.204,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1995,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.036,0.091,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1996,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.045,0.15,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1997,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,-0.031,0.192,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1998,Swedish Island of Gotland in the Baltic Sea,31,155,M,Y,C,clutch size - selection on phenotypes,OtherLH,recruitment,S,0.156,0.169,1,1,1,0,0,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1980,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,0.142,0.11,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1981,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,0.112,0.092,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1982,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.037,0.093,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1983,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.019,0.07,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1984,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,0.027,0.087,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1985,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.176,0.071,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1986,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.082,0.076,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1987,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.201,0.075,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1988,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.113,0.066,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1989,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.036,0.067,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1990,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.125,0.073,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1991,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.139,0.071,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1992,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,0.051,0.066,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1993,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.153,0.063,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1994,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.094,0.058,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1995,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,0.033,0.064,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1996,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,0.045,0.065,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1997,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,0.019,0.061,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1998,Swedish Island of Gotland in the Baltic Sea,31,156,N,N,NA,laying date - selection on phenotypes,Phen,female survival,S,-0.051,0.063,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1980,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.265,0.131,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1981,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.257,0.125,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1982,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.216,0.158,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1983,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.193,0.093,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1984,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.169,0.19,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1985,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.104,0.116,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1986,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.224,0.104,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1987,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.323,0.084,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1988,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.253,0.103,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1989,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.199,0.126,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1990,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.481,0.179,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1991,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.356,0.172,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1992,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.441,0.333,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1993,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.439,0.166,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1994,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.376,0.21,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1995,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.375,0.091,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1996,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.03,0.15,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1997,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.23,0.181,1,1,NA,NA,NA,0
+Sheldon et al.,2003,Evolution,Ficedula albicollis,V,1998,Swedish Island of Gotland in the Baltic Sea,31,157,N,N,NA,laying date - selection on phenotypes,Phen,recruitment,S,-0.262,0.167,1,1,NA,NA,NA,0
+Svensson,1997,Evolution,Parus caeruleus,V,1993,"Revinge Area, southern Sweden",32,158,M,Y,C,brood size at fledging,OtherLH,post-fledgling survival,S,0.256,0.124,1,1,1,0,0,0
+Svensson,1997,Evolution,Parus caeruleus,V,1994,"Revinge Area, southern Sweden",32,158,M,Y,C,brood size at fledging,OtherLH,post-fledgling survival,S,0.169,0.112,1,1,1,0,0,0
+Svensson,1997,Evolution,Parus caeruleus,V,1995,"Revinge Area, southern Sweden",32,158,M,Y,C,brood size at fledging,OtherLH,post-fledgling survival,S,0.212,0.134,1,1,1,0,0,0
+Svensson,1997,Evolution,Parus caeruleus,V,1993,"Revinge Area, southern Sweden",32,159,N,N,NA,hatching date,Phen,post-fledgling survival,S,-0.308,0.125,1,1,NA,NA,NA,0
+Svensson,1997,Evolution,Parus caeruleus,V,1994,"Revinge Area, southern Sweden",32,159,N,N,NA,hatching date,Phen,post-fledgling survival,S,-0.081,0.112,1,1,NA,NA,NA,0
+Svensson,1997,Evolution,Parus caeruleus,V,1995,"Revinge Area, southern Sweden",32,159,N,N,NA,hatching date,Phen,post-fledgling survival,S,-0.187,0.134,1,1,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Canencia,33,160,N,N,NA,Flower number,OtherLH,Fruit set,F,0.045,0.028,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Canencia,33,160,N,N,NA,Flower number,OtherLH,Fruit set,F,-0.003,0.019,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Canencia,33,161,N,N,NA,Flower number,OtherLH,Seed number,F,0.017,0.058,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Canencia,33,161,N,N,NA,Flower number,OtherLH,Seed number,F,0.008,0.057,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Canencia,33,162,N,N,NA,Flower size,OtherMO,Fruit set,F,0.01,0.028,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Canencia,33,162,N,N,NA,Flower size,OtherMO,Fruit set,F,-0.003,0.016,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Canencia,33,163,N,N,NA,Flower size,OtherMO,Seed number,F,0.123,0.042,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Canencia,33,163,N,N,NA,Flower size,OtherMO,Seed number,F,0.051,0.06,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Tres Cantos,33,164,N,N,NA,Flower number,OtherLH,Fruit set,F,-0.048,0.033,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Tres Cantos,33,164,N,N,NA,Flower number,OtherLH,Fruit set,F,-0.134,0.035,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Tres Cantos,33,165,N,N,NA,Flower number,OtherLH,Seed number,F,-0.051,0.047,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Tres Cantos,33,165,N,N,NA,Flower number,OtherLH,Seed number,F,-0.158,0.13,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Tres Cantos,33,166,N,N,NA,Flower size,OtherMO,Fruit set,F,-0.025,0.033,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Tres Cantos,33,166,N,N,NA,Flower size,OtherMO,Fruit set,F,-0.018,0.032,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2010,Tres Cantos,33,167,N,N,NA,Flower size,OtherMO,Seed number,F,-0.013,0.012,0,0,NA,NA,NA,0
+Teixido & Valladares,2014,Botanical Journal of the Linnean Society,Cistus ladanifer,P,2011,Tres Cantos,33,167,N,N,NA,Flower size,OtherMO,Seed number,F,0.07,0.108,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1985,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.2114,0.0336,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1986,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.3773,0.083,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1987,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.0384,0.0191,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1988,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.1419,0.0341,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1989,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.36,0.0656,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1990,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.0765,0.0308,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1991,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.1491,0.033,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1992,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.5292,0.0637,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1993,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.1675,0.0317,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1994,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.4364,0.0525,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1995,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.3537,0.0535,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1996,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.0733,0.0292,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1997,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.2103,0.0347,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1998,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.1093,0.0233,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,1999,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.1782,0.0381,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,2000,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.1675,0.0288,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,2002,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.3764,0.0549,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,2003,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.0434,0.0181,0,0,NA,NA,NA,0
+Wilson et al. ,2006,PLoS Biology,Ovis aries,V,2004,"Scottish island of Hirta, St. Kilda",34,168,N,N,NA,birth weight,Size,neonatal survival,S,0.1737,0.0314,0,0,NA,NA,NA,0
