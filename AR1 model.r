@@ -2,7 +2,7 @@
 # Code for double-hierarchical model
 library(rethinking)
 
-setwd("C:/Users/dominik_deffner/Documents/GitHub/Niche-construction-time-series")
+setwd("~/GitHub/Niche-construction-time-series")
 
 #Prepare data
 d <- read.csv("Temporal Analysis.csv")
@@ -132,8 +132,8 @@ model{
     real mu;
     real sigma;
     
-    a_NC ~ normal(0,1);
-    beta ~ normal(0,1);
+    a_NC ~ normal(0,2);
+    beta ~ normal(0,2);
     log_sigma ~ normal(-3,1);
   
   
@@ -155,7 +155,7 @@ model{
     
     L = Length_Study[k];
 
-    segment(Grad_est, pos, Length_Study[k])[2:L] ~ normal( (a_NC[NC[k]] + v_Study[k,1]) + (beta[NC[k]] + v_Study[k,2]) * segment(Grad_est, pos, Length_Study[k])[1:(L - 1)], exp(log_sigma[NC[k]] + v_Study[k,3]) );
+    segment(Grad_est, pos, Length_Study[k])[2:L] ~ normal( (a_NC[NC[k]] + v_Study[k,1]) + tanh(beta[NC[k]] + v_Study[k,2]) * segment(Grad_est, pos, Length_Study[k])[1:(L - 1)], exp(log_sigma[NC[k]] + v_Study[k,3]) );
     pos = pos + Length_Study[k];
   } 
     
@@ -166,7 +166,7 @@ model{
 
 
 #Run stan models
-m <- stan( model_code= AR1 , data=dat , chains=4, iter = 10000, cores=4, control=list(adapt_delta=0.99, max_treedepth=15))
+m <- stan( model_code= AR1_random , data=dat , chains=4, iter = 2000, cores=4, control=list(adapt_delta=0.9, max_treedepth=15))
 
 s <- extract.samples(m)
 
@@ -198,31 +198,44 @@ par(mfrow = c(dat$N_cat,1),
 for (NC in 1:dat$N_cat) {
   
   
-  plot(c(1,seq), type = "n", ylim = c(-0.4,0.4), bty = "n")
+  plot(c(1,seq), type = "n", ylim = c(-2,2), bty = "n")
   
+  for (j in sample(d$Subset, 10)) {
+    
+
   for (i in sample(1:length(s$a_NC[,NC]), 100)) {
     
     y <- c()
-    y[1] <- rnorm(1, mean(s$a_NC[,NC]), mean(exp(s$log_sigma[,NC]))) 
+    y[1] <- rnorm(1, s$a_NC[i,NC]+s$v_Study[i,j,1], exp(s$log_sigma[i,NC]+s$v_Study[i,j,3])) 
     for (t in seq) {
-      mu <- s$a_NC[i,NC] + s$beta[i,NC] * y[t-1]
-      sigma <- exp(s$log_sigma[i, NC])
+      mu <- (s$a_NC[i,NC]+s$v_Study[i,j,1]) + tanh(s$beta[i,NC]+s$v_Study[i,j,2]) * y[t-1]
+      sigma <- exp(s$log_sigma[i, NC]+s$v_Study[i,j,3])
       
       y[t] <- rnorm(1, mu, sigma )
     }
     
-    lines(y, col = alpha("darkgrey", alpha = ifelse(NC==1, 0.4,0.4)))
+    lines(y, col = alpha(col.pal[NC], alpha = ifelse(NC==1, 0.1,0.1)))
   }
   
-  if (NC == 1) mtext("Autonomous", side = 3, line=-1.5, cex = 1.3) 
+  }
+  
+  if (NC == 1) mtext("Non-constructed", side = 3, line=-1.5, cex = 1.3) 
   if (NC == 2) mtext("Mixed", side = 3, line=-1.5, cex = 1.3) 
   if (NC == 3) mtext("Constructed", side = 3, line=-1.5, cex = 1.3)
   #abline(h=0, lty = 2)
   
+  
+  
 }
 mtext("Time [years]", side = 1, line=1.5, cex = 1.1, outer = TRUE)
 mtext("Selection Gradient", side = 2, line=1.2, cex = 1.1, outer = TRUE)
+
+
 dev.off()
+
+
+
+
 
 
 ####
@@ -241,28 +254,28 @@ par(mfrow = c(1,2),
 
 
 NC = 1
-dens <- density(s$beta[,NC])
-x1 <- min(which(dens$x >= quantile(s$beta[,NC], 0.05)))
-x2 <- max(which(dens$x <  quantile(s$beta[,NC], 0.95)))
+dens <- density(tanh(s$beta[,NC]))
+x1 <- min(which(dens$x >= quantile(tanh(s$beta[,NC]), 0.05)))
+x2 <- max(which(dens$x <  quantile(tanh(s$beta[,NC]), 0.95)))
 plot(dens, xlim = c(-1,1), ylim = c(0,7), type="n", ann = FALSE)
 with(dens, polygon(x=c(x[c(x1,x1:x2,x2)]), y= c(0, y[x1:x2], 0), col=alpha(col.pal[NC],alpha = 0.3), border = NA), add=TRUE)
 lines(dens, col=alpha(col.pal[NC],alpha = 1), lty = NC, lwd = 2)
 
 
 NC = 2
-dens <- density(s$beta[,NC])
-x1 <- min(which(dens$x >= quantile(s$beta[,NC], 0.05)))
-x2 <- max(which(dens$x <  quantile(s$beta[,NC], 0.95)))
+dens <- density(tanh(s$beta[,NC]))
+x1 <- min(which(dens$x >= quantile(tanh(s$beta[,NC]), 0.05)))
+x2 <- max(which(dens$x <  quantile(tanh(s$beta[,NC]), 0.95)))
 with(dens, polygon(x=c(x[c(x1,x1:x2,x2)]), y= c(0, y[x1:x2], 0), col=alpha(col.pal[NC],alpha = 0.3), border = NA), add=TRUE)
 lines(dens, col=alpha(col.pal[NC],alpha = 1), lty = NC, lwd = 2)
+
 
 NC = 3
-dens <- density(s$beta[,NC])
-x1 <- min(which(dens$x >= quantile(s$beta[,NC], 0.05)))
-x2 <- max(which(dens$x <  quantile(s$beta[,NC], 0.95)))
+dens <- density(tanh(s$beta[,NC]))
+x1 <- min(which(dens$x >= quantile(tanh(s$beta[,NC]), 0.05)))
+x2 <- max(which(dens$x <  quantile(tanh(s$beta[,NC]), 0.95)))
 with(dens, polygon(x=c(x[c(x1,x1:x2,x2)]), y= c(0, y[x1:x2], 0), col=alpha(col.pal[NC],alpha = 0.3), border = NA), add=TRUE)
 lines(dens, col=alpha(col.pal[NC],alpha = 1), lty = NC, lwd = 2)
-
 legend("topleft", c("Autonomous", "Mixed", "Constructed"), col = c(alpha(col.pal[1],alpha = 1),alpha(col.pal[2],alpha = 1),alpha(col.pal[3],alpha = 1)), cex = 0.8, lty =c(1,2,3), lwd = 2, bty = "n" )
 mtext("Density", side = 2, line=3, cex = 1.1)
 mtext("Temporal Stability", side = 3, line=0.5, cex = 1.1)
